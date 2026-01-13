@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="205" src="https://i.pinimg.com/originals/e5/3e/86/e53e8654c20385d0398a4717af2fcb8c.gif"  />
-</div>
 
 ###
 
@@ -59,7 +56,7 @@
 
 ###
 
-<p align="left">• Programming<br>• Gaming<br>• Drawing (kinda bad but i try)<br>• Edit videos</p>
+<p align="left">• Programming<br>• Gaming<br>• Drawing<br>• Edit videos</p>
 
 ###
 
