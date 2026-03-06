@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">• I'm Henrique Boscoli, I'm 19y and brazilian<br>• Computer Science student at 𝐅𝐈𝐀𝐏<br>• Goal: Become a full-stack developer<br>• Languages: Portuguese (Native), English (Fluent)</p>
+<p align="left">• I'm Henrique Boscoli, 19y and brazilian<br>• Computer Science student at 𝐅𝐈𝐀𝐏<br>• Goal: Become a full-stack developer<br>• Languages: Portuguese (Native), English (Fluent)</p>
 
 ###
 
