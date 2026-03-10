@@ -1,7 +1,6 @@
 <h2 align="center">☆ Henrique Boscoli ☆</h2>
 
 ###
- https://streak-stats.demolab.com/?user=Boscolii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3
 
 ###
 
