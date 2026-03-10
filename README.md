@@ -19,7 +19,7 @@ Estudante de Ciência da Computação construindo projetos e explorando novas te
 
 <h1 align="center">Tecnologias</h1>
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,aws,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,aws,git,docker"/>
 
 </td>
 </tr>
