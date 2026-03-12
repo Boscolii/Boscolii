@@ -6,7 +6,7 @@
 
 <h1 align="center">Sobre mim</h1>
 
-Estudante de Ciência da Computação construindo projetos e explorando novas tecnologias.
+Estudante de Ciência da Computação construindo projetos e explorando novas tecnologias com meta de se tornar MLOps
 
 - Ciência Da Computação - FIAP 3º Semestre
 - Backend Developer
