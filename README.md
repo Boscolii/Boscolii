@@ -11,7 +11,7 @@ Estudante de Ciência da Computação construindo projetos e explorando novas te
 - Ciência Da Computação - FIAP 3º Semestre
 - Backend Developer
 - Machine Learning
-- Java | Python | APIs REST | SpringBoot | AWS | HTML | CSS | React Native
+- Java | Python | SQL | APIs REST | SpringBoot | AWS | HTML | CSS | React Native
 
 </td>
 
