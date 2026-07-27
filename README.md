@@ -6,9 +6,9 @@
 
 <h1 align="center">Sobre mim</h1>
 
-Estudante de Ciência da Computação construindo projetos e explorando novas tecnologias
+Estudante de Ciência da Computação construindo projetos e sempre estudando
 
-- Ciência Da Computação - FIAP 3º Semestre
+- Ciência Da Computação - FIAP 4º Semestre
 - Backend Developer
 - Machine Learning
 - Java | Python | SQL | APIs REST | SpringBoot | AWS | HTML | CSS | React Native
